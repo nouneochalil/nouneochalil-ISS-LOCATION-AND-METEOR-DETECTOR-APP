@@ -1,6 +1,7 @@
 # ISS-Location-and-Meteor-detector-App
 
 This app is intended to locate the ISS and to know the five meteors that is closer to Earth.
+  
   *used React Native maps to use maps on the screen.
   *used an API to fetch the coordinates of the ISS.
   * generated an API key and calculate threat scores for the meteors after fetching the data from the API.
